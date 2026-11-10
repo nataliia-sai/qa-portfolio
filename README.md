@@ -48,3 +48,22 @@ Specialist Degree in Applied Mathematics
 ## Career Goal
 
 I am looking for an entry-level Manual QA Tester position where I can apply my knowledge, develop my testing skills, and grow as a QA professional.
+
+
+
+## Portfolio Projects
+
+### 1. Test Cases
+Test cases created for e-commerce website testing.
+
+[View Test Cases](./Test-Cases/test-cases.md)
+
+### 2. Checklists
+Checklists created for UI testing and functionality verification.
+
+[View Checklists](./Checklists/registration-checklist.md)
+
+### 3. Bug Reports
+Practice bug reports documenting identified software defects.
+
+[View Bug Reports](./Bug-Reports/bug-reports.md)
